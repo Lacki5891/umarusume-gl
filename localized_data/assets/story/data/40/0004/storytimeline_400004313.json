@@ -1,0 +1,65 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monologue",
+      "text": "One evening, I spot Bamboo Memory on<n>the track\nheading toward Oguri Cap who<n>appears to be\ntaking a break."
+    },
+    {
+      "name": "Bamboo Memory",
+      "text": "Mind if I join ya?"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Hm? Oh, Bamboo. Sure, no problem."
+    },
+    {
+      "name": "Bamboo Memory",
+      "text": "So, uh, do ya like it hot? Like, how do<n>ya say it...\nAll bubbling and fiery!"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Bubbling and... fiery?"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "(Is she talking about spicy hot pots?)"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Yes, I love it."
+    },
+    {
+      "name": "Bamboo Memory",
+      "text": "Thought so! I like it too!"
+    },
+    {
+      "name": "Bamboo Memory",
+      "text": "Hey, Oguri! Let's have a heated<n>showdown\nsometime!"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "(A showdown? Are those really that hot?<n>Well, I'll\nbe fine with the heat either<n>way.)"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Forget about sometime—we can have<n>one right\nnow."
+    },
+    {
+      "name": "Bamboo Memory",
+      "text": "Whoa! You really are in a different<n>league!"
+    },
+    {
+      "name": "Bamboo Memory",
+      "text": "But if we're gonna have a showdown, I<n>want it to\nbe in the proper place! Okay,<n>later!"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "A \"proper place\"? Maybe Bamboo<n>prefers\nhigh-class restaurants?"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Well, eating some hot pot with her<n>sounds\nenticing no matter where. Hehe, I<n>can't wait."
+    }
+  ]
+}

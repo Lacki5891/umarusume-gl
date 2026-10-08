@@ -1,0 +1,114 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Academy PA",
+      "text": "Trainer<n><username>, please<n>\ncome to the director's office<n>immediately."
+    },
+    {
+      "name": "Монолог",
+      "text": "The announcement sounds serious, so I<n>make my\nway to the director's office in<n>something of a\nfluster.",
+      "choice_data_list": [
+        "It's <username>."
+      ]
+    },
+    {
+      "name": "Директор Акикава",
+      "text": "Please enter."
+    },
+    {
+      "name": "Тазуна Хаякава",
+      "text": "Do take a seat."
+    },
+    {
+      "name": "Директор Акикава",
+      "text": "...",
+      "choice_data_list": [
+        "...U-um?"
+      ]
+    },
+    {
+      "name": "Tazuna & Директор Акикава",
+      "text": "..."
+    },
+    {
+      "name": "Монолог",
+      "text": "The silence is downright unsettling! As<n>the\nwordless minutes start to feel like<n>hours..."
+    },
+    {
+      "name": "Монолог",
+      "text": "...I grow more and more uneasy. Has<n>something\nterrible happened?",
+      "choice_data_list": [
+        "Um! Wh-what's going on?!"
+      ]
+    },
+    {
+      "name": "Директор Акикава",
+      "text": "Gratitude!",
+      "choice_data_list": [
+        "...Huh?"
+      ]
+    },
+    {
+      "name": "Тазуна Хаякава",
+      "text": "We called you here today to express our<n>\ngratitude to you, Trainer!"
+    },
+    {
+      "name": "Директор Акикава",
+      "text": "Indeed! Your trainee<n><chrname>..."
+    },
+    {
+      "name": "Директор Акикава",
+      "text": "Well, she's put on a brilliant display<n>throughout\nthis vital third year in her<n>Twinkle Series career!"
+    },
+    {
+      "name": "Директор Акикава",
+      "text": "We've no doubt that the track she<n>blazed will\nserve as a shining beacon for<n>not only her\nclassmates, but the next<n>generation as well!"
+    },
+    {
+      "name": "Директор Акикава",
+      "text": "As such, we are... INCREDIBLY grateful!<n>Splendid\nwork, Trainer!",
+      "choice_data_list": [
+        "Th-thank you very much!"
+      ]
+    },
+    {
+      "name": "Директор Акикава",
+      "text": "Right! Also... Expectations! I greatly look<n>forward\nto the unprecedented glory<n>you're sure to achieve\nin the future!"
+    },
+    {
+      "name": "Тазуна Хаякава",
+      "text": "I'd like to thank you for your continued<n>efforts as\nwell. Please don't hesitate to<n>let me know if\nthere's anything I can<n>assist you with."
+    },
+    {
+      "name": "Монолог",
+      "text": "It seems all they had in store was a heap<n>of praise!\nI'm very appreciative, of<n>course, but something's\nstill bugging me.",
+      "choice_data_list": [
+        "What was with that awkward silence?"
+      ]
+    },
+    {
+      "name": "Директор Акикава",
+      "text": "A surprise! Naturally!",
+      "choice_data_list": [
+        "...A surprise?"
+      ]
+    },
+    {
+      "name": "Директор Акикава",
+      "text": "Yes! I figured building a little suspense<n>would\nsweeten the payoff!"
+    },
+    {
+      "name": "Тазуна Хаякава",
+      "text": "I-I'm sorry. I did try to stop her..."
+    },
+    {
+      "name": "Монолог",
+      "text": "...There's a thing or three I'd like to<n>question, but\nI'm happy to know I'm<n>appreciated."
+    },
+    {
+      "name": "Монолог",
+      "text": "Later, I tell <chrname> about<n>what\nhappened and we share in the joy!"
+    }
+  ]
+}

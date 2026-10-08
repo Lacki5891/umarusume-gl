@@ -1,0 +1,33 @@
+{
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Nice Nature",
+            "text": "H-hold on a second. What did you just<n>say?"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Hey Nature, come chat with us!"
+        },
+        {
+            "name": "Marvelous Sunday",
+            "text": "We have a ★ marvelous ☆ topic that's<n>right up\nyour alley!"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "That's what we said!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Uh-huh, I got that part. But what was it<n>you\nwanted to talk about?"
+        },
+        {
+            "name": "Both",
+            "text": "Glamorous grown-up stuff! ☆"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "H-huh? Am I hearing things? Mind<n>repeating that\nagain for me?"
+        }
+    ]
+}

@@ -1,0 +1,141 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monologue",
+      "text": "While eating in the cafeteria, I overhear<n>Mejiro\nBright and Fine Motion having a<n>discussion."
+    },
+    {
+      "name": "Fine Motion",
+      "text": "A message from a prince?"
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Yes. This morning I received an email<n>from\nsomeone claiming to be the prince<n>of a certain\ncountry."
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Apparently, he has a surplus of wealth<n>and is\nsearching for someone who will<n>use that money\neffectively."
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Hmm, so he's a philanthropist? But I<n>wonder if a\nmember of royalty would<n>send an email like that."
+    },
+    {
+      "name": "Fine Motion",
+      "text": "So, did you reply?"
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Yes, I refused his offer. There's no way I<n>can\naccept money from a complete<n>stranger."
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "But then I received another message<n>saying the\nprince was involved in an<n>accident..."
+    },
+    {
+      "name": "Fine Motion",
+      "text": "My, what are the chances!"
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Apparently, he was seriously injured and<n>is\nrequesting assistance with his medical<n>costs."
+    },
+    {
+      "name": "Fine Motion",
+      "text": "...Hold on. Wasn't this the same fellow<n>who had so\nmuch money he wanted to<n>give it away?"
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "He said all his money burned up in the<n>accident."
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Hmm, so all his funds were in cash? And<n>this must\nhave been a mighty fire to<n>have destroyed all that\ncapital. It's<n>strange that I haven't seen any news<n>\nabout it..."
+    },
+    {
+      "name": "Monologue",
+      "text": "Unable to remain silent any longer, I<n>intrude upon\ntheir conversation.",
+      "choice_data_list": [
+        "It's all a bunch of lies."
+      ]
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "What? Is that right?"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Ahaha, I thought it all sounded a smidge<n>too\nconvenient! His claim of being a<n>prince, then\ngetting hurt in an<n>accident—so it was all a big\nscam, then?",
+      "choice_data_list": [
+        "Exactly."
+      ]
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Oh, it seems so obvious now! Well, that's<n>an\nenormous relief."
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "It means there was no accident, and that<n>no one\nwas hurt."
+    },
+    {
+      "name": "Monologue",
+      "text": "Despite almost being deceived by this<n>\"prince,\"\nMejiro Bright still feels a great<n>sense of relief.",
+      "choice_data_list": [
+        "You really are a kind person.",
+        "You need to learn a little more about how the\nworld works."
+      ]
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "The news about the accident felt so<n>sudden that I\nwas simply overcome with<n>worry. I didn't think to\nquestion it."
+    },
+    {
+      "name": "Fine Motion",
+      "text": "It's a fine shame there are people out<n>there trying\nto take advantage of that<n>sort of good will. Let's\nbe sure to stay<n>vigilant, Bright!"
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "How the world works... I see."
+    },
+    {
+      "name": "Fine Motion",
+      "text": "At the very least, you should be able to<n>tell\nwhether an email is a scam or not.",
+      "choice_data_list": [
+        "It's best to ignore emails from people you don't\nknow."
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "That makes sense! And it sounds much<n>better than\nchecking each and every<n>message one by one."
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "I appreciate your advice. I'll definitely<n>be more\ncareful from now on!",
+      "choice_data_list": [
+        "You should also change your email address if\npossible."
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Indeed! It'd be quite the bother if that<n>false\nprince contacted you again."
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "You're absolutely right! ...So how would<n>one do\nthat?"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Uhh, I'm sorry, I don't know either! My<n>security\nteam handles that sort of thing<n>for me!"
+    },
+    {
+      "name": "Monologue",
+      "text": "And so, I end up helping Mejiro Bright<n>change her\nemail address."
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Yes, absolutely! Thank you very much<n>for your\nadvice."
+    }
+  ]
+}

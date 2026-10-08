@@ -1,0 +1,16 @@
+{
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Монолог",
+            "text": "Огури Кап с удовольствием<n>пробежала на NHK\nMile Cup."
+        },
+        {
+            "name": "Монолог",
+            "text": "Будучи уверенной, что этот вызов<n>ей по плечу,\nона решает нацелиться на<n>Mile Championship.",
+            "color_text_info_list": [
+                "Mile Championship"
+            ]
+        }
+    ]
+}

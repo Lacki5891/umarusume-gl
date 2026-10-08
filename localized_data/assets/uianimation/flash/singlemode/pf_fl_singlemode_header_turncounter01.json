@@ -1,0 +1,51 @@
+{
+  "windows": {
+    "bundle_name": "BSTCOVHZWGJCRBPVZMFSUPQUWSYVLWNE"
+  },
+  "data": {
+    "motion_parameter_list": {
+      "4": {
+        "text_param_list": {
+          "0": {
+            "text": "Цель"
+          }
+        }
+      },
+      "7": {
+        "text_param_list": {
+          "0": {
+            "text": "осталось"
+          }
+        }
+      },
+      "8": {
+        "text_param_list": {
+          "0": {
+            "text": "Ход(ов)"
+          }
+        }
+      },
+      "14": {
+        "text_param_list": {
+          "0": {
+            "text": "End"
+          }
+        }
+      },
+      "15": {
+        "text_param_list": {
+          "0": {
+            "text": "после\nокончания хода"
+          }
+        }
+      },
+      "19": {
+        "text_param_list": {
+          "0": {
+            "text": "ход(ов)"
+          }
+        }
+      }
+    }
+  }
+}

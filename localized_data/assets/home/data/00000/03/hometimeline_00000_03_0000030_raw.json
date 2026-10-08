@@ -1,0 +1,53 @@
+{
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Tosen Jordan",
+            "text": "Yeah! Time to raise the roof, up and up!"
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "We'll hit 'em with a whahey and a woo!"
+        },
+        {
+            "name": "Gold City",
+            "text": "You both seem excited. Something<n>happen?"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Ahahaha! Have I got a story for you! No<n>choice\nbut to shake it off!"
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "You got that right, sis! And all us peeps<n>are here\nto party with ya!"
+        },
+        {
+            "name": "Gold City",
+            "text": "All right, let's calm down. Is it something<n>good?"
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Find out by coming to the faculty room<n>with us! ♪"
+        },
+        {
+            "name": "Gold City",
+            "text": "Huh? Why the faculty room?"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Well I kinda blanked on doing aaall my<n>\nhomework. Five subjects worth of<n>teachers are on\nmy case now! Isn't that<n>crazy?"
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "That's like five different parties to go to!<n>You're\nsettin' a world record for sure!"
+        },
+        {
+            "name": "Gold City",
+            "text": "<i>Sigh.</i> All right, I'll tag along. Just make<n>sure to\nproperly apologize."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Ooogh... Appreciate you two for real."
+        }
+    ]
+}

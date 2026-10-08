@@ -1,0 +1,33 @@
+{
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Монолог",
+            "text": "После яростной битвы за первое<n>место Огури\nКап вырывает победу на<n>spring Tenno Sho.",
+            "color_text_info_list": [
+                "spring Tenno Sho"
+            ]
+        },
+        {
+            "name": "Монолог",
+            "text": "Но битва за звание сильнейшей<n>только\nначалась. Огури Кап и Тамамо<n>Кросс дают слово\nснова встретиться на<n>autumn Tenno Sho.",
+            "color_text_info_list": [
+                "autumn Tenno Sho"
+            ]
+        },
+        {
+            "name": "Монолог",
+            "text": "После яростной битвы за первое<n>место Тамамо\nКросс вырывает победу на<n>spring Tenno Sho.",
+            "color_text_info_list": [
+                "spring Tenno Sho"
+            ]
+        },
+        {
+            "name": "Монолог",
+            "text": "Но битва за звание сильнейшей<n>только\nначалась. Огури Кап и Тамамо<n>Кросс дают слово\nснова встретиться на<n>autumn Tenno Sho.",
+            "color_text_info_list": [
+                "autumn Tenno Sho"
+            ]
+        }
+    ]
+}

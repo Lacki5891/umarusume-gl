@@ -1,0 +1,145 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Монолог",
+      "text": "While out shopping one day, I spot<n>Nishino\nFlower standing in a store's nail<n>product section.\nShe looks lost."
+    },
+    {
+      "name": "Нишино Флауэр",
+      "text": "This is all nail polish? There's so many. I<n>don't\neven know where to start..."
+    },
+    {
+      "name": "Тосэн Джордан",
+      "text": "Hmm... How 'bout the one up there? It<n>dries quick\nand doesn't chip easy."
+    },
+    {
+      "name": "Нишино Флауэр",
+      "text": "Jordan?! U-um, this isn't what it looks<n>like!"
+    },
+    {
+      "name": "Тосэн Джордан",
+      "text": "Huh? So... you're not buying nail stuff?"
+    },
+    {
+      "name": "Нишино Флауэр",
+      "text": "Who, me? Th-that'd just look weird. I-I<n>mean, it's\nnot like doing my nails like an<n>adult will actually\nmake me one, right?"
+    },
+    {
+      "name": "Тосэн Джордан",
+      "text": "C'mon, no shame in owning up. Which<n>one do you\nwant?"
+    },
+    {
+      "name": "Нишино Флауэр",
+      "text": "W-well, um..."
+    },
+    {
+      "name": "Тосэн Джордан",
+      "text": "For now, why don'tcha just pick a color<n>you vibe\nwith? Don't worry about the<n>base coat, I'll lend\nyou mine."
+    },
+    {
+      "name": "Нишино Флауэр",
+      "text": "Um, then... a pink one. I think Bourbon<n>would like\nthat too..."
+    },
+    {
+      "name": "Тосэн Джордан",
+      "text": "Oh, you two are gonna match? Hmm...<n>How's one\nof these pinks, then?"
+    },
+    {
+      "name": "Сакура Бакусин-О",
+      "text": "Hold it right there, Jordan! You're<n>biasing her\ndecision!"
+    },
+    {
+      "name": "Сакура Бакусин-О",
+      "text": "Hear her out first! Do you even know<n>why she's\nhere?"
+    },
+    {
+      "name": "Тосэн Джордан",
+      "text": "Yikes, killjoy alert. C'mon, Flower, let's<n>go."
+    },
+    {
+      "name": "Сакура Бакусин-О",
+      "text": "Killjoy?! I'm only giving my sincere<n>advice as a\nclass repre—"
+    },
+    {
+      "name": "Тосэн Джордан",
+      "text": "All right, all right! If you're so worried,<n>why don't\nyou tag along then? That goes<n>for you over there\ntoo, snoops!",
+      "choice_data_list": [
+        "M-me too?",
+        "M-me too?"
+      ]
+    },
+    {
+      "name": "Нишино Флауэр",
+      "text": "Paint all the way to the edges... but not<n>too far..."
+    },
+    {
+      "name": "Монолог",
+      "text": "Нишино Флауэр carefully follows Tosen<n>Jordan's\ninstructions as she paints the<n>nails I offered up for\npractice. They turn<n>out a lovely pink."
+    },
+    {
+      "name": "Тосэн Джордан",
+      "text": "Yep, looking good. All that's left is to<n>let them\ndry."
+    },
+    {
+      "name": "Нишино Флауэр",
+      "text": "I had no idea just painting them would<n>be so\ndifficult. Maybe I'm still not ready<n>for this..."
+    },
+    {
+      "name": "Тосэн Джордан",
+      "text": "Hey, look. Painting your nails—all<n>fashion,\nreally—is something you do for<n>yourself, yeah?"
+    },
+    {
+      "name": "Тосэн Джордан",
+      "text": "It's like when you look in the mirror after<n>doing\nyour makeup, and you're like,<n>\"Wow, you're\nkilling it, girl.\" Kinda like<n>our signature racewear\ntoo, actually."
+    },
+    {
+      "name": "Сакура Бакусин-О",
+      "text": "Oh, yeah! I get super fired up when I put<n>mine on!"
+    },
+    {
+      "name": "Тосэн Джордан",
+      "text": "Right? So if you wanna give off<n>grown-up vibes,\nyou gotta look the part<n>so you can <i>feel</i> the part!\nHere—lean over<n>for a sec."
+    },
+    {
+      "name": "Монолог",
+      "text": "Тосэн Джордан pulls out a translucent lip<n>gloss\nfrom her pouch and applies it to<n>Нишино Флауэр's\nlips."
+    },
+    {
+      "name": "Тосэн Джордан",
+      "text": "What do you think? Not much difference<n>\nlooks-wise, but you feel glowed-up,<n>right?"
+    },
+    {
+      "name": "Нишино Флауэр",
+      "text": "Oh... Ehehe, you're right. I already feel a<n>little\nmore mature!"
+    },
+    {
+      "name": "Тосэн Джордан",
+      "text": "There you go. Told you—look the part<n>and the\nrest'll follow."
+    },
+    {
+      "name": "Сакура Бакусин-О",
+      "text": "I wholeheartedly agree! As class<n>representative, I\nmake sure I always look<n>the part!"
+    },
+    {
+      "name": "Тосэн Джордан",
+      "text": "Huh... Actually, your hair's, like, never<n><i>not</i>\nperfect. Don't tell me you're the<n>super fussy type?"
+    },
+    {
+      "name": "Сакура Бакусин-О",
+      "text": "Ha ha ha, so you've noticed! I always<n>keep my\nhair in order—just like my<n>priorities! As soon as\nit's tied up, I'm in<n>full class rep mode!"
+    },
+    {
+      "name": "Нишино Флауэр",
+      "text": "So you start with looks too! I remember<n>when\nJordan did my nails during the<n>sweets\ncompetition—I felt like a<n>grown-up!"
+    },
+    {
+      "name": "Нишино Флауэр",
+      "text": "I'm... I'm going to get better at doing my<n>nails!\nJordan, please teach me<n>everything you know!"
+    },
+    {
+      "name": "Тосэн Джордан",
+      "text": "Bet. Hit me up whenever, 'kay?"
+    }
+  ]
+}

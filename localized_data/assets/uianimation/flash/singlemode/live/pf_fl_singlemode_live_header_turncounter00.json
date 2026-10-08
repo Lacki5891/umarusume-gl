@@ -1,0 +1,140 @@
+{
+  "windows": {
+    "bundle_name": "TU6V3LNFA6E7H2SEGT7TEAWWZLNNBLOG"
+  },
+  "data": {
+    "motion_parameter_list": {
+      "4": {
+        "text_param_list": {
+          "0": {
+            "position_offset": {
+              "x": 3.025,
+              "y": -0.025,
+              "z": 0
+            }
+          }
+        }
+      },
+      "6": {
+        "text_param_list": {
+          "0": {
+            "text": "осталось"
+          }
+        }
+      },
+      "2": {
+        "text_param_list": {
+          "0": {
+            "text": "Концерт через"
+          }
+        }
+      },
+      "3": {
+        "text_param_list": {
+          "0": {
+            "text": "Концерт через"
+          }
+        }
+      },
+      "5": {
+        "text_param_list": {
+          "0": {
+            "text": "тест"
+          }
+        }
+      },
+      "9": {
+        "text_param_list": {
+          "0": {
+            "text": "тест3"
+          }
+        }
+      },
+      "10": {
+        "text_param_list": {
+          "0": {
+            "text": "тест4"
+          }
+        }
+      },
+      "11": {
+        "text_param_list": {
+          "0": {
+            "text": "тест5"
+          }
+        }
+      },
+      "14": {
+        "text_param_list": {
+          "0": {
+            "text": "Концерт начнётся\nпосле хода"
+          }
+        }
+      },
+      "1": {
+        "text_param_list": {
+          "0": {
+            "text": "Концерт через"
+          }
+        }
+      },
+      "7": {
+        "text_param_list": {
+          "0": {
+            "text": "ход(ов)",
+            "position_offset": {
+              "x": -2,
+              "y": -1,
+              "z": 0
+            }
+          }
+        }
+      },
+      "12": {
+        "text_param_list": {
+          "0": {
+            "text": "Конец"
+          }
+        }
+      },
+      "13": {
+        "text_param_list": {
+          "0": {
+            "text": "Конец"
+          }
+        }
+      },
+      "18": {
+        "text_param_list": {
+          "0": {
+            "text": "Концерт через:"
+          }
+        }
+      },
+      "16": {
+        "text_param_list": {
+          "0": {
+            "text": "ход(ов)",
+            "position_offset": {
+              "x": -2,
+              "y": -1,
+              "z": 0
+            }
+          }
+        }
+      },
+      "17": {
+        "text_param_list": {
+          "0": {
+            "text": "ход(ов)",
+            "position_offset": {
+              "x": -2,
+              "y": -1,
+              "z": 0
+            }
+          }
+        }
+      }
+    }
+  }
+}

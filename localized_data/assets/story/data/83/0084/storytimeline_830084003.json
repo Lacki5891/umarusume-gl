@@ -1,0 +1,265 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Тосэн Джордан",
+      "text": "Yikes, this place is the real deal! I'm way<n>out of\nmy element!"
+    },
+    {
+      "name": "Монолог",
+      "text": "To explain why we're here, we have to<n>go back a\nlittle bit. It all began when<n>Нишино Флауэр\napproached Tosen<n>Jordan for advice..."
+    },
+    {
+      "name": "Нишино Флауэр",
+      "text": "So, I put a photo of my nails on Umatter,<n>and\nsomeone commented suggesting I<n>make a\nnail-themed packed lunch."
+    },
+    {
+      "name": "Нишино Флауэр",
+      "text": "I thought that sounded fun... but I can't<n>come up\nwith a good idea. I want to<n>make something\nstylish—what do you<n>think?"
+    },
+    {
+      "name": "Тосэн Джордан",
+      "text": "Hmm... You want it to look glam for the<n>photos,\nyeah? How about these? I keep<n>seeing them on\nmy feed."
+    },
+    {
+      "name": "Нишино Флауэр",
+      "text": "Oh, Japanese sweets! They'd look super<n>cute in\nthe lunchbox!"
+    },
+    {
+      "name": "Нишино Флауэр",
+      "text": "But... I've never made anything so<n>highbrow\nbefore..."
+    },
+    {
+      "name": "Тосэн Джордан",
+      "text": "Uh... Who said anything about<n>eyebrows?"
+    },
+    {
+      "name": "Тосэн Джордан",
+      "text": "Anyways, if it's about sweets, I know just<n>who to\nask."
+    },
+    {
+      "name": "Эйшин Флэш",
+      "text": "Japanese sweets? Then I'd recommend a<n>\nworkshop for beginners. The experts will<n>guide\nyou through all the steps."
+    },
+    {
+      "name": "Эйшин Флэш",
+      "text": "I'm rather interested myself, actually.<n>Would it be\nall right if I tagged along<n>when you go?"
+    },
+    {
+      "name": "Тосэн Джордан",
+      "text": "Oh, totes. Can you handle the<n>reservation, then?\nYou know way more<n>about this stuff and all."
+    },
+    {
+      "name": "Монолог",
+      "text": "They also figured having a chaperone<n>would be\npreferable, which is the exact<n>moment I happened\nto pass by..."
+    },
+    {
+      "name": "Эйшин Флэш",
+      "text": "I can sense a solemn adherence to<n>tradition and\nceremony. I think we'll<n>have a great experience\nmaking sweets."
+    },
+    {
+      "name": "Тосэн Джордан",
+      "text": "I don't think I could be more out of<n>place..."
+    },
+    {
+      "name": "Нишино Флауэр",
+      "text": "I-it's okay, we're in this together! Um... I<n>think we\nget to try some tea and sweets<n>before the\nworkshop begins."
+    },
+    {
+      "name": "Тосэн Джордан",
+      "text": "A private room?! We're not gonna have<n>to be all\nprim and proper, are we?!"
+    },
+    {
+      "name": "Эйшин Флэш",
+      "text": "I read a book on Japanese culture once<n>that said\nJapanese sweets go hand in<n>hand with formal tea\nceremonies."
+    },
+    {
+      "name": "Shop Staff A",
+      "text": "Pardon my intrusion. We will now be<n>preparing\nyour tea."
+    },
+    {
+      "name": "Монолог",
+      "text": "A number of kimono-clad staff enter the<n>room.\nThey place trays of traditional<n>sweets before us\nand begin preparing<n>the tea."
+    },
+    {
+      "name": "Shop Staff A",
+      "text": "Please, help yourselves."
+    },
+    {
+      "name": "Нишино Флауэр",
+      "text": "Thank you very much."
+    },
+    {
+      "name": "Тосэн Джордан",
+      "text": "Huh? We're already eating?"
+    },
+    {
+      "name": "Нишино Флауэр",
+      "text": "Um, I think it's proper etiquette to finish<n>the\nsweets before the tea."
+    },
+    {
+      "name": "Эйшин Флэш",
+      "text": "Yes, I read that as well. It was quite<n>surprising."
+    },
+    {
+      "name": "Тосэн Джордан",
+      "text": "You know your stuff, huh, Flower? Help<n>a girl out\nhere—I'm in way over my head!"
+    },
+    {
+      "name": "Эйшин Флэш",
+      "text": "I'd like your guidance too, if you don't<n>mind. I've\nstudied tea ceremony, but I'm<n>far from an expert.",
+      "choice_data_list": [
+        "M-me too...",
+        "M-me too..."
+      ]
+    },
+    {
+      "name": "Нишино Флауэр",
+      "text": "Ah, of course! B-but it's not like I have<n>any formal\npractice, so... I'm sorry if I get<n>anything mixed up!"
+    },
+    {
+      "name": "Тосэн Джордан",
+      "text": "Man, you're so put together, Flower.<n>Mad\nrespect, seriously."
+    },
+    {
+      "name": "Shop Staff A",
+      "text": "Hehe, I admire how open-minded you all<n>are.\nMany people would find it difficult<n>to ask\nsomeone younger for help."
+    },
+    {
+      "name": "Shop Staff A",
+      "text": "Hehe, I admire how open-minded you all<n>are.\nMany people would find it difficult<n>to ask\nsomeone younger for help."
+    },
+    {
+      "name": "Тосэн Джордан",
+      "text": "Huh? Was that a low-key compliment?",
+      "choice_data_list": [
+        "Of course! She's praising your willingness to\nlearn!",
+        "Of course! She's praising your willingness to\nlearn!"
+      ]
+    },
+    {
+      "name": "Shop Staff A",
+      "text": "Do pardon me for speaking out of turn.<n>Please\nmake yourselves at home. It<n>wouldn't be a worthy\nexperience if you<n>couldn't relax and enjoy\nyourselves."
+    },
+    {
+      "name": "Тосэн Джордан",
+      "text": "Oh, so, like, are selfies cool?"
+    },
+    {
+      "name": "Эйшин Флэш",
+      "text": "Psst, Jordan! That has to be against<n>the—"
+    },
+    {
+      "name": "Shop Staff A",
+      "text": "Hehehe. Yes, take as many photos as<n>you'd like.\nNothing makes us happier<n>than others\nappreciating Japanese<n>sweets and tea."
+    },
+    {
+      "name": "Нишино Флауэр",
+      "text": "M-me too! I want to take pictures of the<n>sweets!"
+    },
+    {
+      "name": "Эйшин Флэш",
+      "text": "That workshop was a very enriching<n>experience. It\ncertainly helped broaden<n>my perspective on\nJapanese culture."
+    },
+    {
+      "name": "Тосэн Джордан",
+      "text": "For sure. It was cool trying something<n>you\nnormally don't get to do."
+    },
+    {
+      "name": "Нишино Флауэр",
+      "text": "Now I can use my knowledge about<n>making\nJapanese sweets to make cute<n>decorations for my\npacked lunches!"
+    },
+    {
+      "name": "Тосэн Джордан",
+      "text": "If you need any tips with your nails, let<n>me know,\nyeah? I got you."
+    },
+    {
+      "name": "Монолог",
+      "text": "All is silent but for the sound of a<n>bamboo tea\nwhisk. I sneak a sideways<n>glance and see Tosen\nJordan and Eishin<n>Flash looking pained."
+    },
+    {
+      "name": "Jordan & Flash",
+      "text": "<i>Hnnnnngh!</i>"
+    },
+    {
+      "name": "Тосэн Джордан",
+      "text": "Ow, ow, ow! Sitting in seiza sucks! I can't<n>feel my\nlegs!"
+    },
+    {
+      "name": "Эйшин Флэш",
+      "text": "Jordan, I'd hazard a guess that it's<n>impolite to be\nstretching like that."
+    },
+    {
+      "name": "Тосэн Джордан",
+      "text": "C'mon, it's just us here."
+    },
+    {
+      "name": "Тосэн Джордан",
+      "text": "Besides, I know you're totes numb too."
+    },
+    {
+      "name": "Эйшин Флэш",
+      "text": "<i>Hnnngh!</i> P-please don't poke me!"
+    },
+    {
+      "name": "Нишино Флауэр",
+      "text": "Um, try leaving some space between<n>your legs\nand crossing your big toes. It<n>helps to avoid going\nnumb."
+    },
+    {
+      "name": "Тосэн Джордан",
+      "text": "Whoa, no kidding. That's way better! ♪"
+    },
+    {
+      "name": "Эйшин Флэш",
+      "text": "So this is how you're supposed to sit. As<n>someone\nwithout much experience, your<n>advice is a\nlifesaver. Thank you, Flower."
+    },
+    {
+      "name": "Нишино Флауэр",
+      "text": "Ehehe, happy to help. But if it starts to<n>hurt, you\ncan always just say \"excuse me\"<n>and sit normally."
+    },
+    {
+      "name": "Тосэн Джордан",
+      "text": "Man, I'm so glad we've got you here.<n>Like, marry\nme, girl!"
+    },
+    {
+      "name": "Нишино Флауэр",
+      "text": "C-come on, you'll make me blush!"
+    },
+    {
+      "name": "Эйшин Флэш",
+      "text": "Flower, if you notice anything wrong<n>with my\netiquette, please let me know."
+    },
+    {
+      "name": "Нишино Флауэр",
+      "text": "Um, I don't think you have to worry<n>about that."
+    },
+    {
+      "name": "Нишино Флауэр",
+      "text": "The staff have already left, so that's<n>probably\ntheir way of saying we can<n>make ourselves at\nhome."
+    },
+    {
+      "name": "Тосэн Джордан",
+      "text": "What if they're just cutting us some slack<n>after\nseeing our horrible posture?"
+    },
+    {
+      "name": "Эйшин Флэш",
+      "text": "<i>Gasp!</i> That would be... a little<n>embarrassing."
+    },
+    {
+      "name": "Тосэн Джордан",
+      "text": "Meh, I say we thank them. Time to kick<n>back and\nrelax."
+    },
+    {
+      "name": "Нишино Флауэр",
+      "text": "I agree. Let's enjoy the tea and the<n>sweets at our\nown pace."
+    },
+    {
+      "name": "Монолог",
+      "text": "The trio chatter excitedly on the way<n>back,\nsharing ideas for Нишино Флауэр's<n>Umatter\nphotos. There's no doubt they'll<n>turn out great."
+    },
+    {
+      "name": "Монолог",
+      "text": "After we take our time savoring the tea<n>and\nsweets, we take part in the<n>sweets-making\nworkshop. From<n>beginning to end, everyone is all\nsmiles."
+    }
+  ]
+}
