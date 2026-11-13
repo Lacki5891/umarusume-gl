@@ -1,9 +1,9 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "text": "После тренировки, <chrname>\n<n>поговорила с\nРайс Шауэр.",
-            "name": "Монолог"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "После тренировки <chrname>\nбеседует с<n> Райс Шауэр.",
+      "name": "Монолог"
+    }
+  ]
 }
